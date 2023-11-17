@@ -1,0 +1,414 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 538,
+            "max": [
+                0.44342517852783203,
+                0.907739520072937,
+                0.11148896813392639
+            ],
+            "min": [
+                -0.4434250593185425,
+                -5.960464477539063e-08,
+                -0.11148892343044281
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 538,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 538,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5123,
+            "count": 792,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5123,
+            "count": 546,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5123,
+            "count": 792,
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "generator": "Adobe Creative Cloud",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 6456
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4304,
+            "byteOffset": 6456
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6456,
+            "byteOffset": 10760
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1584,
+            "byteOffset": 17216
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6,
+            "byteOffset": 18800
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1092,
+            "byteOffset": 18806
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6,
+            "byteOffset": 19898
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1584,
+            "byteOffset": 19904
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1371027,
+            "byteOffset": 21488
+        },
+        {
+            "buffer": 0,
+            "byteLength": 9336,
+            "byteOffset": 1392515
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1401851,
+            "uri": "pablomodel2.bin"
+        }
+    ],
+    "extensionsRequired": [
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform"
+    ],
+    "extensionsUsed": [
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform",
+        "KHR_texture_transform"
+    ],
+    "images": [
+        {
+            "bufferView": 8,
+            "mimeType": "image/png",
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec6806430000.PNG"
+        },
+        {
+            "bufferView": 9,
+            "mimeType": "image/png",
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643 Extrusion Material - Default Texture.PNG"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643 Front Inflation Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                0.2787511348724365,
+                                0.2726280987262726
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.44431382417678833,
+                                0.45390060544013977
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643 Front Bevel Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                0.2787511348724365,
+                                0.2726280987262726
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.44431382417678833,
+                                0.45390060544013977
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643 Extrusion Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643 Back Bevel Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                0.2787511348724365,
+                                0.2726280987262726
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.44431382417678833,
+                                0.45390060544013977
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643 Back Inflation Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                0.2787511348724365,
+                                0.2726280987262726
+                            ],
+                            "rotation": 0.0,
+                            "scale": [
+                                0.44431382417678833,
+                                0.45390060544013977
+                            ]
+                        }
+                    },
+                    "index": 0
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 3,
+                    "material": 0,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 4,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 5,
+                    "material": 2,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 6,
+                    "material": 3,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 7,
+                    "material": 4,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "matrix": [
+                -0.000984805985353887,
+                1.2060394143660298e-19,
+                -0.0001736478734528646,
+                0.0,
+                1.0119875601755205e-19,
+                0.0009999984176829457,
+                1.2060396728599713e-19,
+                0.0,
+                0.0001736478734528646,
+                1.0119873663050644e-19,
+                -0.000984805985353887,
+                0.0,
+                0.9926712512969971,
+                -0.5452553033828735,
+                0.13959641754627228,
+                0.9999999403953552
+            ],
+            "mesh": 0,
+            "name": "afidel_a_purple_and_lime_green_crypto_coin_logo_for_pablo_escob_b9a43202-b231-4280-a366-57a5ec680643"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0
+        },
+        {
+            "source": 1
+        }
+    ]
+}

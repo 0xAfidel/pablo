@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$PABLO ON SOLANA</title>
+<!-- Include Model Viewer from a CDN -->
+<script type="module" src="https://unpkg.com/@google/model-viewer"></script>
+<style>
+  @font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Regular.ttf') format('truetype');
+  }
+  body, html {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: url('solanaGradient.jpg') no-repeat center center fixed; 
+    background-size: cover;
+  }
+  .header-text, .buy-link {
+    font-family: 'Bebas Neue', Arial, sans-serif;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    background: transparent;
+  }
+  .header-text {
+    padding: 10px 0;
+  }
+  .buy-link {
+    font-size: 3em; /* Adjust the size as needed */
+    margin-top: 20px; /* Space between the model-viewer and the link */
+    display: block; /* Make the anchor fill the line for larger clickable area */
+    text-decoration: none; /* Remove the underline from the link */
+  }
+  model-viewer {
+    width: 100%;
+    height: calc(100vh - 50px);
+    background-color: transparent;
+  }
+</style>
+</head>
+<body>
+<div class="header-text">$PABLO ON SOLANA</div>
+<model-viewer src="pablomodel2.gltf" alt="A 3D model of $PABLO ON SOLANA" auto-rotate camera-controls background-color="transparent"></model-viewer>
+<a href="https://jup.ag/swap/SOL-PABLO_aeEVdBECn1qc7h9BokLzLMvmTHyqCiDv5hPJHphyX3S" class="buy-link" target="_blank">BUY</a>
+</body>
+</html>
